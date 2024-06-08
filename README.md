@@ -49,8 +49,8 @@ A* (A-star) is a pathfinding algorithm that efficiently finds the shortest path 
 
 ## Screenshots:
 
-- ![Screenshot 1](img src="media/astar05.png")
-- ![Screenshot 2](media/astar06.png)
+ ![Screenshot 1](media/astar07.JPG)
+
 
 ### How to Run:
 
