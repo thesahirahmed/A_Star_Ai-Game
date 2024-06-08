@@ -1,6 +1,5 @@
 # A_Star_Ai-Game
-
-**Description:**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 In this game, you control a jet trying to avoid enemy missiles using arrow keys. The enemies intelligently pursue your jet using A* pathfinding, making it challenging to evade them. Dodge the missiles for as long as possible to survive!
 
 **Implementation:**
