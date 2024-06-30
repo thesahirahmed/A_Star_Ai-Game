@@ -58,3 +58,5 @@ A* (A-star) is a pathfinding algorithm that efficiently finds the shortest path 
 3. Run `python main.py` to start the game.
 
 Enjoy the game and happy dodging! 🚀🎮
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
